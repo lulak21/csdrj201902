@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Schema xmlns="http://tempuri.org/Schema.xsd">
+
+  <Venda>
+    <IdVenda>1</IdVenda>
+    <dataVenda>2018-01-02T13:03:03.000</dataVenda>
+    <valor>100</valor>
+    <IdVendedor>1</IdVendedor>
+  </Venda>
+
+  <Venda>
+    <IdVenda>2</IdVenda>
+    <dataVenda>2011-01-02T13:03:03.000</dataVenda>
+    <valor>1000</valor>
+    <IdVendedor>2</IdVendedor>
+  </Venda>
+  
+   <Venda>
+    <IdVenda>10</IdVenda>
+    <dataVenda>2019-01-02T13:03:03.000</dataVenda>
+    <valor>1000</valor>
+    <IdVendedor>100</IdVendedor>
+  </Venda>
+
+  <Venda>
+    <IdVenda>20</IdVenda>
+    <dataVenda>2019-01-02T13:03:03.000</dataVenda>
+    <valor>55.59</valor>
+    <IdVendedor>200</IdVendedor>
+  </Venda>
+
+  <Venda>
+    <IdVenda>30</IdVenda>
+    <dataVenda>2019-01-02T13:03:03.000</dataVenda>
+    <valor>12500</valor>
+    <IdVendedor>200</IdVendedor>
+  </Venda>
+
+
+  <Venda>
+    <IdVenda>40</IdVenda>
+    <dataVenda>2018-01-02T13:03:03.000</dataVenda>
+    <valor>15000</valor>
+    <IdVendedor>300</IdVendedor>
+  </Venda>
+  
+  <Venda>
+    <IdVenda>50</IdVenda>
+    <dataVenda>2019-01-02T13:03:03.000</dataVenda>
+    <valor>2000</valor>
+    <IdVendedor>300</IdVendedor>
+  </Venda>
+
+
+</Schema>
